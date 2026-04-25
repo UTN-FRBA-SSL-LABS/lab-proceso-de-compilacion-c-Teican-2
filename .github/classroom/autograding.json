@@ -1,4 +1,4 @@
-{
+cat salidas/salida_debug.txt{
   "tests": [
     {
       "name": "1. programa.i existe",
